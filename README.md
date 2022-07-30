@@ -1,5 +1,5 @@
 # BashBot
-![—Pngtree—white micro stereo technology wind_4039820.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6da890e5-eb94-4bbd-8556-a9da1d14a513/Pngtreewhite_micro_stereo_technology_wind_4039820.png)
+![—Pngtree—white micro stereo technology wind_4039820.png](https://i.imgur.com/lL4l0YF.png)
 
 ## Sobre
 
