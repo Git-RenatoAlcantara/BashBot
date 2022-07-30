@@ -1,7 +1,7 @@
 #!/bin/bash
 source BashBot.sh
 
-token="5364826966:AAGfUb1i8HZsEHbHPfUmnxerkbITyig_WJk"
+token=""
 BashBot.init --token $token
 
 bem_vindo(){
