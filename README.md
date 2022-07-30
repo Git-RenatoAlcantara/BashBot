@@ -42,7 +42,7 @@ Agradeço ao grupo **Juliano Santos (SHAMAN)** por disponibilizar sua API que fo
 
 
 ```bash
-$ git clone [https://github.com/Git-RenatoAlcantara/BashBot.git](https://github.com/Git-RenatoAlcantara/BashBot.git) && cd BashBot
+$ git clone https://github.com/Git-RenatoAlcantara/BashBot.git && cd BashBot
 ```
 
 Copie o arquivo **BashBot.sh** para a pasta de projeto do seu bot.
