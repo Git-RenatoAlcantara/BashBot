@@ -5,7 +5,7 @@
 
 
 O **ShellBot.sh**
- é um script desenvolvido em **Shell Script** que simula uma API  do [Telegram](https://core.telegram.org/api), para criação de bot's. O projeto teve inicio após a necessidade de criar um bot para gerenciar servidores. No inicio com códigos bagunçados e de difícil reutilização, resolvi deixar o código mais organizado. Apartir daí resolvi deixa-lo publico para estudos e reutilização para a comunidade shell do Brasil.
+ é um script desenvolvido em **Shell Script** que simula uma API  do [Telegram](https://core.telegram.org/api), para criação de bot's. O projeto teve inicio após a necessidade de criar um bot para gerenciar servidores. No inicio com códigos bagunçados e de difícil reutilização, resolvi deixar o código mais organizado. Apartir daí resolvi deixa-lo publico para estudos e reutilização para a comunidade de código aberto  do Brasil.
 
 ## Créditos
 
